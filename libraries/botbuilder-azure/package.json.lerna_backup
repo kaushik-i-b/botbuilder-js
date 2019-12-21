@@ -21,7 +21,7 @@
 	"main": "./lib/index.js",
 	"typings": "./lib/index.d.ts",
 	"dependencies": {
-		"botbuilder": "~4.1.6"
+		"botbuilder": "^"
 	},
 	"devDependencies": {
 		"nock": "^10.0.1"
